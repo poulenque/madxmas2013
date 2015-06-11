@@ -1,3 +1,24 @@
+Survival guide for dumb persons
+===============================
+
+  If you completely lost and have no idea what the hell you are doing right now,
+  you can run this magical command that may solve all your problems in your life :
+
+    < $ make run >
+
+  This magical command will compile everything for you and might spawn some ponies far from your computer
+  to make someone happy.
+
+  You might want to read the output because it will compile love2d that may require some
+  libraries. If something is missing it will bother you and make the program unable
+  to spawn ponies correctly. 
+
+  < $ make run | grep -i error>
+
+  might be useful
+     
+
+
 Quick start guide
 =================
 
