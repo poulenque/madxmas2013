@@ -19,7 +19,7 @@ $ make run
 $ make run | grep -i error
 ```
 
-  might be useful
+  might be useful to see why love2d is whining and wasting everyone's time !
      
 
 
