@@ -1,7 +1,7 @@
 Survival guide for dumb persons
 ===============================
 
-  If you completely lost and have no idea what the hell you are doing right now,
+  If you are completely lost and have no idea what the hell you are doing right now,
   you can run this magical command that may solve all your problems in your life :
 
 ```
